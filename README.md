@@ -1,4 +1,4 @@
-#StockStats 2026
+#StockStats
 
 Built to cut through market noise. StockStats focuses on what’s controllable: live data, baseline risk metrics (Sharpe ratios), and automated AI workflows with minimal overhead.
 
