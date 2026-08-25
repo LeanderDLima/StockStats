@@ -10,5 +10,4 @@ StockStats is a Python financial terminal built with CustomTkinter and the Gemin
 
 ## Setup
 1. Install dependencies:
-   bash
    pip install -r requirements.txt
